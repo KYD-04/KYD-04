@@ -8,13 +8,11 @@
 
 Поскольку я собирабсь развиваться по специальнсоти, вот мои проекты по Data Analyze:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="30" height="30"> Coming soon...
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="30" height="30" style="filter: invert(100%);"> Coming soon...
 
 В данный момент я активно развиваюсь как Machine Learning Engeneer, и большинство моиих проектов основаны на Kaggle:
 
-<div style="background-color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="30" height="30"> Coming soon...
-</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"alt="git" width="30" height="30"> Coming soon...
 
 Моя научная деятельность:
 
