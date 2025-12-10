@@ -12,7 +12,9 @@
 
 В данный момент я активно развиваюсь как Machine Learning Engeneer, и большинство моиих проектов основаны на Kaggle:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"alt="git" width="30" height="30" Coming soon...
+<div style="background-color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="30" height="30"> Coming soon...
+</div>
 
 Моя научная деятельность:
 
