@@ -1,4 +1,4 @@
-Добро пожаловать, Гитхабовец!
+Добро пожаловать!
 
 # Кто есть я?
 
@@ -8,31 +8,31 @@
 
 Поскольку я собирабсь развиваться по специальнсоти, вот мои проекты по Data Analyze:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="30" height="30" style="filter: invert(100%);"> Coming soon...
+<img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="git" width="40" height="40" style="filter: invert(100%);"> Coming soon...
 
 В данный момент я активно развиваюсь как Machine Learning Engeneer, и большинство моиих проектов основаны на Kaggle:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"alt="git" width="30" height="30"> Coming soon...
+<img src="https://github.githubassets.com/favicons/favicon-dark.png"alt="git" width="40" height="40"> Coming soon...
 
 Моя научная деятельность:
 
-<img src="https://github.com/Science-icons/Scicons/blob/master/scicons/SVG/flaskConical.svg" alt="science" width="30" height="30"> Coming soon...
+<img src="https://github.com/Science-icons/Scicons/blob/master/scicons/SVG/flaskConical.svg" alt="science" width="40" height="40"> Coming soon...
 
 Сейчас я сосредоточен на завершении своих идей для PET-проектов, большая часть которых посвещена оптимизации моей повседневной жизни при помощи IT решений. Вот несколько моих проектов:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="30" height="30"> ![KYD-04/Home-Files](https://github.com/KYD-04/Home-Files)
+<img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="git" width="40" height="40"> ![KYD-04/Home-Files](https://github.com/KYD-04/Home-Files)
 
 Также, я занимаюсь разработкой приложений, которые мне показались интересными:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="30" height="30"> ![KYD-04/AbilityForge](https://github.com/KYD-04/AbilityForge)
+<img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="git" width="40" height="40"> ![KYD-04/AbilityForge](https://github.com/KYD-04/AbilityForge)
 
 # Технологии
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40">
 
 # Инструменты
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS code" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="Powershell" width="30" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS code" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="Powershell" width="40" height="40"> <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="GitHub" width="40" height="40">
 
 # Контакты
 <p>
