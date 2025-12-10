@@ -6,13 +6,13 @@
 
 # Моя деятельность
 
-Поскольку я собирабсь развиваться по специальнсоти, вот мои проекты по Data Analyze:
+Поскольку я собираюсь развиваться по специальнсоти, вот мои проекты по Data Analyze:
 
 <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="git" width="20" height="20" style="filter: invert(100%);"> Coming soon...
 
 В данный момент я активно развиваюсь как Machine Learning Engeneer, и большинство моиих проектов основаны на Kaggle:
 
-<img src="https://github.com/Science-icons/Scicons/blob/master/scicons/SVG/flaskConical.svg" alt="science" width="20" height="20"> Coming soon...
+<img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="science" width="20" height="20"> Coming soon...
 
 Моя научная деятельность:
 
@@ -35,17 +35,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="35" height="35"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="35" height="35"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS code" width="35" height="35"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="Powershell" width="35" height="35"> <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="GitHub" width="35" height="35">
 
 # Контакты
-<p>
-[![Telegram Badge](https://img.shields.io/badge/-statt19-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/statt19)
-[![e-mail Badge](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:yakholodov19@gmail.com)
-</p>
+
+- [![Telegram Badge](https://img.shields.io/badge/-statt19-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/statt19)
+- [![Email Badge](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:yakholodov19@gmail.com)
+
 
 # Образование
-<p>
-<>Институт: ![РАНХиГС](https://www.ranepa.ru/)
-Программа: ![Анализ данных & Машинное обучение](https://www.ranepa.ru/bakalavriat/napravleniya-i-programmy/010246/)
-В партнёрстве с РАНХиГС в образовательном процессе участвовали SkillBox, которые предоставили курсы, расширяющие образовательную программу:
-</p>
+
+- Институт: [РАНХиГС](https://www.ranepa.ru/)
+- Программа: [Анализ данных & Машинное обучение](https://www.ranepa.ru/bakalavriat/napravleniya-i-programmy/010246/)
+- В партнёрстве с РАНХиГС в образовательном процессе участвовали SkillBox, которые предоставили курсы, расширяющие образовательную программу:
+
 <p>
     🔹 Excel для Анализа данных<br>
     🔹 Анализ данных на Python<br>
