@@ -16,7 +16,7 @@
 
 Моя научная деятельность:
 
-<img src="https://github.com/Science-icons/Scicons/blob/master/scicons/SVG/flaskConical.svg?sanitize=true" width="20" height="20" style="filter: invert(1);" /> Coming soon...
+<img src="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=science" width="20" height="20" style="filter: invert(1);" /> Coming soon...
 
 
 Сейчас я сосредоточен на завершении своих идей для PET-проектов, большая часть которых посвещена оптимизации моей повседневной жизни при помощи IT решений. Вот несколько моих проектов:
