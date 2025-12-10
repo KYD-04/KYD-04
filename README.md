@@ -14,11 +14,6 @@
 
 <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="science" width="20" height="20"> Coming soon...
 
-Моя научная деятельность:
-
-<img src="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=science" width="20" height="20" style="filter: invert(1);" /> Coming soon...
-
-
 Сейчас я сосредоточен на завершении своих идей для PET-проектов, большая часть которых посвещена оптимизации моей повседневной жизни при помощи IT решений. Вот несколько моих проектов:
 
 <img src="https://github.githubassets.com/favicons/favicon-dark.png" alt="git" width="20" height="20"> [KYD-04/Home-Files](https://github.com/KYD-04/Home-Files)
